@@ -4,3 +4,5 @@ Analise dos requisitos do projeto;
 Validação com o cliente.
 
 Foram adicionados ao projeto.
+
+Ok! Validado!
