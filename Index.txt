@@ -4,5 +4,3 @@ Analise dos requisitos do projeto;
 Validação com o cliente.
 
 Verificação validada.
-
-Ok! Feito!
