@@ -1,0 +1,4 @@
+Projeto secreto:
+
+Analise dos requisitos do projeto; 
+Validação com o cliente.
