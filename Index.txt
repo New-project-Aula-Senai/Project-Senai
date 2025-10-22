@@ -2,11 +2,3 @@ Projeto secreto:
 
 Analise dos requisitos do projeto; 
 Validação com o cliente.
-
-<<<<<<< HEAD
-Foram adicionados ao projeto.
-
-Ok! Validado!
-=======
-Verificação validada.
->>>>>>> 954b1d88872acecd3aea773f5624e51958460b7c
